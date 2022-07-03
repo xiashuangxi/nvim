@@ -1,4 +1,4 @@
-neovim配置
+这是一个简单的 neovim 的配置
 
 # 使用插件
 - [wbthomason/packer.nvim](https://www.github.com/wbthomason/packer.nvim)
@@ -19,9 +19,10 @@ neovim配置
 - [rafamadriz/friendly-snippets](https://www.github.com/rafamadriz/friendly-snippets)
 - [neovim/nvim-lspconfig](https://www.github.com/neovim/nvim-lspconfig)
 - [williamboman/nvim-lsp-installer](https://www.github.com/williamboman/nvim-lsp-installer)
-	
 
 # 支持语言
+- Ada
+- Ocaml
 
 # License
 MIT
