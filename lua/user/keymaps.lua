@@ -13,4 +13,7 @@ keymap('n', '<leader>fb', ':Telescope buffers<cr>', opts)
 keymap('n', '<leader>fg', ':Telescope live_grep<cr>', opts)
 keymap('n', '<leader>fh', ':Telescope help_tags<cr>', opts)
 
+keymap('n', '<leader>[', ':vsplit<cr>', opts)
+keymap('n', '<leader>]', ':split<cr>', opts)
+
 keymap('i', 'jk', '<ESC>', opts)

@@ -19,6 +19,8 @@
 - [rafamadriz/friendly-snippets](https://www.github.com/rafamadriz/friendly-snippets)
 - [neovim/nvim-lspconfig](https://www.github.com/neovim/nvim-lspconfig)
 - [williamboman/nvim-lsp-installer](https://www.github.com/williamboman/nvim-lsp-installer)
+- [folke/which-key.nvim](https://www.github.com/folke/which-key.nvim)
+- [ahmedkhalf/project.nvim](https://www.github.com/ahmedkhalf/project.nvim)
 
 # 支持语言
 - Ada
