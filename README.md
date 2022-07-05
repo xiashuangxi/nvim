@@ -21,6 +21,8 @@
 - [williamboman/nvim-lsp-installer](https://www.github.com/williamboman/nvim-lsp-installer)
 - [folke/which-key.nvim](https://www.github.com/folke/which-key.nvim)
 - [ahmedkhalf/project.nvim](https://www.github.com/ahmedkhalf/project.nvim)
+- [yorickpeterse/nvim-window](https://www.github.com/yorickpeterse/nvim-window)
+- [tzachar/cmp-tabnine](https://www.github.com/tzachar/cmp-tabnine)
 
 # 支持语言
 - Ada

@@ -48,6 +48,7 @@ return packer.startup(function(use)
   }
   use 'folke/which-key.nvim'
   use 'ahmedkhalf/project.nvim'
+  use 'yorickpeterse/nvim-window'
 
   use 'hrsh7th/nvim-cmp'
   use 'hrsh7th/cmp-buffer'
@@ -56,6 +57,8 @@ return packer.startup(function(use)
   use 'saadparwaiz1/cmp_luasnip' 
   use 'hrsh7th/cmp-nvim-lsp'
   use 'hrsh7th/cmp-nvim-lua'
+  use {'tzachar/cmp-tabnine', after = 'nvim-cmp', run='powershell ./install.ps1', requires = 'hrsh7th/nvim-cmp'} -- win
+  -- use {'tzachar/cmp-tabnine', run='./install.sh', requires = 'hrsh7th/nvim-cmp'} -- linux
 
   use 'L3MON4D3/LuaSnip' 
   use 'rafamadriz/friendly-snippets'
